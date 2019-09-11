@@ -1,5 +1,5 @@
-# Welcome to JSARTEDITS 01 GitHub
-JS 09112019 3:38
+# Welcome to JSARTEDIT01 GitHub
+JS 09112019 3:42pm
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
