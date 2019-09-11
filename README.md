@@ -1,4 +1,4 @@
-# Welcome to GitHub
+# Welcome to JS GitHub
 JS 09112019
 
 # Welcome to GitHub
